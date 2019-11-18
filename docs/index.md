@@ -7,7 +7,12 @@
 
 ### 30 de Outubro | 14:00 - 15:30: [Design Thinking em tempos de Inteligência Artificial - Natali Garcia (Design Lead na Accenture Interactive)](/lectures/003.md)
 
-### 31 de Outubro | 09:20 - 10:30: [30 anos da Web - Iberê Thenório, Lola Aronovich & Léo Viturinno](/lectures/004.md)
+### 30 de Outubro | 16:00 - 17:30: [secDevLabs: um laboratório prático para aprendizagem em desenvolvimento seguro - Daniel Carlier e Silvia Pimpão](/lectures/004.md)
+
+### 31 de Outubro | 09:20 - 10:30: [30 anos da Web - Iberê Thenório, Lola Aronovich & Léo Viturinno](/lectures/005.md)
+
+
+
 
 ## Links:
 ### Playlist on Youtube: [Here]()
