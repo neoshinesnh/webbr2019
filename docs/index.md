@@ -11,8 +11,9 @@
 
 ### 31 de Outubro | 09:20 - 10:30: [30 anos da Web - Iberê Thenório, Lola Aronovich & Léo Viturinno](/lectures/005.md)
 
+### 31 de Outubro | 14:20 - 15:30: [O impacto da tecnologia na vida dos jovens da periferia - William Oliveira, Juliana Pereira & Guilherme Gonçalo](/lectures/006.md)
 
-
+### 31 de Outubro | 15:30 - 16:40: [Design, Ética e IA: e nós com isso? & Big Social Data e Democracia: Muito além que Fake News! - Jonice Oliveira & Diogo Cortiz](/lectures/007.md)
 
 ## Links:
 ### Playlist on Youtube: [Here]()
