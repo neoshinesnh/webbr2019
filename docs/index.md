@@ -15,6 +15,8 @@
 
 ### 31 de Outubro | 15:30 - 16:40: [Design, Ética e IA: e nós com isso? & Big Social Data e Democracia: Muito além que Fake News! - Jonice Oliveira & Diogo Cortiz](/lectures/007.md)
 
+### 31 de Outubro | 17:00 - 18:10: [O passado, o presente e o futuro do desenvolvimento de jogos em HTML5 - Andrzej Mazur (Fundador da Enclave Games)](/lectures/008.md)
+
 ## Links:
 ### Playlist on Youtube: [Here]()
 ### Photos on Flickr: [Here]()
