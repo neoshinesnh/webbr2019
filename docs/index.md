@@ -11,7 +11,7 @@
 
 ### 31 de Outubro | 09:20 - 10:30: [30 anos da Web - Iberê Thenório, Lola Aronovich & Léo Viturinno](/lectures/005.md)
 
-### 31 de Outubro | 10:50 - 12:00 [Entre métricas aleatórias e achômetro? Software Analytics ao resgate! & Crowd labor: alavancando a comunidade online para novas estratégias de desenvolvimento de software -  Eduardo Guerra & Leticia Machado](006)
+### 31 de Outubro | 10:50 - 12:00 [Entre métricas aleatórias e achômetro? Software Analytics ao resgate! & Crowd labor: alavancando a comunidade online para novas estratégias de desenvolvimento de software -  Eduardo Guerra & Leticia Machado](/lectures/006.md)
 
 ### 31 de Outubro | 14:20 - 15:30: [O impacto da tecnologia na vida dos jovens da periferia - William Oliveira, Juliana Pereira & Guilherme Gonçalo](/lectures/007.md)
 
